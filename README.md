@@ -1,7 +1,10 @@
 # react-component-panel
 
 <!-- badge -->
-
+[![npm version](https://img.shields.io/npm/v/react-component-panel.svg)](https://www.npmjs.com/package/react-component-panel)
+[![npm license](https://img.shields.io/npm/l/react-component-panel.svg)](https://www.npmjs.com/package/react-component-panel)
+[![npm download](https://img.shields.io/npm/dm/react-component-panel.svg)](https://www.npmjs.com/package/react-component-panel)
+[![npm download](https://img.shields.io/npm/dt/react-component-panel.svg)](https://www.npmjs.com/package/react-component-panel)
 <!-- endbadge -->
 
 ## Screen Shot

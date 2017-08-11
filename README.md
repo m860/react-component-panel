@@ -14,11 +14,13 @@
 ## Install
 
 ```shell
+$ npm i react-component-panel --save
 ```
 
 ## Import
 
 ```javascript
+import {Panel} from 'react-component-panel'
 ```
 
 ## TODO

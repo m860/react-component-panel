@@ -1,6 +1,3 @@
-/**
- * Created by jean.h.ma on 21/08/2017.
- */
 import React, {PureComponent} from "react";
 import PropTypes from "prop-types";
 import Panel from './Panel'
